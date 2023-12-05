@@ -1,5 +1,7 @@
 # SportsPerson_Classifier
 
+![Screenshot 2023-12-05 191742](https://github.com/Vedant478/SportsPerson_Classifier/assets/55829535/4e6b6275-e00f-40fd-af13-1cc56fadc7f9)
+
 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
 1) Maria Sharapova
