@@ -2,6 +2,24 @@
 
 ![Screenshot 2023-12-05 191742](https://github.com/Vedant478/SportsPerson_Classifier/assets/55829535/4e6b6275-e00f-40fd-af13-1cc56fadc7f9)
 
+## Installation
+
+Clone the project 
+
+```bash
+   git clone https://github.com/Vedant478/SportsPerson_Classifier.git
+```
+
+Install the requirements.txt
+```bash
+  pip install -r requirements.txt
+```
+Start the Python flask server from server directory
+```bash 
+   python server.py
+```
+Run HTML file 
+
 ## Demo Video
 
 https://github.com/Vedant478/SportsPerson_Classifier/assets/55829535/06869c89-8fe8-4764-96cc-8d18cd6b02cf
